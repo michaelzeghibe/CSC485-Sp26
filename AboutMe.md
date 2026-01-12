@@ -1,26 +1,25 @@
 # About Me (You)
 
 ## Name:
-My name is <fill in your name here>. But I like to go by <my cool nickname>.
+My name is William. But I like to go by Will.
 
 ## Major/Minors:
 
-<List out your majors and minors>
+- Computer Science
 - Math
+- Data Science (Minor)
 
 ## Favorite Food:
 
 What is your favorite food?
+- Burger with Fries
 What is your favorite cuisine?
-
-## Social security number:
-
-## Birthday and location:
+- Japanese
 
 ## Hobbies:
 
-## Mother's maiden name:
+- I like running, board games, working on projects, taking care of my plants, and hanging out
 
 ## What you want to do when you graduate?
 
-I've written out a ton of things. Now I'd like to save this new file. Cool. I just "commit" it.
+- I think I want to work in ML/AI, though I am not sure yet
