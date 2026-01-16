@@ -24,7 +24,7 @@ Make sure:
 ---
 
 ### 2. Check out the pull request
-- In the menu bar, click **Repository → Pull Requests**
+- In the menu bar, click **Current Branch → Pull Requests**
 - Select the pull request you want to merge
 - Click **Checkout Pull Request**
 
